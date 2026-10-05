@@ -2,7 +2,7 @@
 
 Personal portfolio website: AI/ML and software projects, certificates, resume and contact.
 
-Live site: https://aniketshukla637.github.io/portfolio/
+Live site: Live site: https://aniketshukla637.github.io/aniket-portfolio/
 
 ## Tech
 HTML, CSS, vanilla JavaScript (no frameworks, no build step).
